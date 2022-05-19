@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
 
     val outerInstance = OuterClassKotlin("first")
     // Please note the syntax differences to instantiate nested or inner class
